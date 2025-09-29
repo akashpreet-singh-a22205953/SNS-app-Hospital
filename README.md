@@ -14,7 +14,6 @@ Este documento detalha o desenvolvimento e a arquitetura da aplicação móvel "
 Nome: Akashpreet Singh  - Número: a22205953
 
 
-Nome: Gabriel Almeida - Número: 22203311
 
 
 
